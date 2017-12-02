@@ -1,0 +1,3 @@
+# SEGA master system
+
+The Sega Master System is a third-generation home video game console that was manufactured by Sega. It was originally released in 1985 as the Sega Mark III in Japan. After being redesigned prior to its North American launch, the console was renamed Master System and released in 1986 in North America, 1987 in Europe, and 1989 in Brazil. The Master System was also released in Japan in 1987 with additional features over the overseas models. 
